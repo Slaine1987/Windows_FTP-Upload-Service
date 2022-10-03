@@ -1,0 +1,1 @@
+nssm edit FTPUploadService
